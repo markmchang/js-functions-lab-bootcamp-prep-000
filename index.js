@@ -2,6 +2,5 @@
 function sayhappyHolidays() {
   console.log('Happy holidays!')
 } 
-sayhappyHolidays()
 
 function say
